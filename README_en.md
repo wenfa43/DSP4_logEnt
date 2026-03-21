@@ -8,6 +8,14 @@ You can download the latest executable and required components from the [Release
 
 > **Note:** For the application to function correctly, please ensure that `DSP4_logEnt.exe`, `ffmpeg.exe`, and `ffprobe.exe` are placed in the **same folder**.
 
+## 📸 Logo
+![Logo](images/image.jpg)
+
+## 📖 Documentation & Guide
+For detailed information regarding development background, features, and step-by-step instructions, please visit my blog post:
+👉 [**DuplicateSlayerPro V4 - Detailed Introduction & User Guide**](https://one4ok.blogspot.com/2026/03/duplicateslayerpro-v4.html)
+
+
 # Duplicate Slayer Pro v4
 **Version:** 26.03.20.logEnT
 **Author:** austin_tseng
