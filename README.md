@@ -4,7 +4,7 @@
 * 包含完整組件的 Releases 頁面：[點此前往](https://github.com/wenfa43/DSP4_logEnt/releases)
 
 ## 📸 軟體Logo
-![軟體Logo](image/image.jpg)
+![軟體Logo](images/image.jpg)
 
 ## 📖 詳細使用說明與教學
 關於本工具的開發背景、詳細功能介紹及操作步驟，請參考我的部落格文章：
