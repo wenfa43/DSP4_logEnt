@@ -3,6 +3,13 @@
 * [DSP4_logEnt.exe](https://github.com/wenfa43/DSP4_logEnt/releases/download/v1.0.0/DSP4_logEnt.exe)
 * 包含完整組件的 Releases 頁面：[點此前往](https://github.com/wenfa43/DSP4_logEnt/releases)
 
+## 📸 軟體Logo
+![軟體Logo](image/image.jpg)
+
+## 📖 詳細使用說明與教學
+關於本工具的開發背景、詳細功能介紹及操作步驟，請參考我的部落格文章：
+👉 [**DuplicateSlayerPro V4 詳細介紹與使用指南**](https://one4ok.blogspot.com/2026/03/duplicateslayerpro-v4.html)
+
 
 # Duplicate Slayer Pro v4 (副檔刪檔神器 V4)
 
