@@ -1,3 +1,9 @@
+## 📥 下載與安裝
+您可以前往 [最新發布版本](https://github.com/wenfa43/DSP4_logEnt/releases/latest) 下載執行檔：
+* [DSP4_logEnt.exe](https://github.com/wenfa43/DSP4_logEnt/releases/download/v1.0.0/DSP4_logEnt.exe)
+* 包含完整組件的 Releases 頁面：[點此前往](https://github.com/wenfa43/DSP4_logEnt/releases)
+
+
 # Duplicate Slayer Pro v4 (副檔刪檔神器 V4)
 
 **版本:** 26.03.20.logEnT
