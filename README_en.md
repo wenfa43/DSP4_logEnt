@@ -1,3 +1,13 @@
+## 📥 Download & Installation
+
+You can download the latest executable and required components from the [Releases](https://github.com/wenfa43/DSP4_logEnt/releases/latest) page.
+
+### Executables
+* **Main Program:** [DSP4_logEnt.exe](https://github.com/wenfa43/DSP4_logEnt/releases/latest/download/DSP4_logEnt.exe)
+* **Required Plugins:** `ffmpeg.exe` and `ffprobe.exe` (included in the release assets)
+
+> **Note:** For the application to function correctly, please ensure that `DSP4_logEnt.exe`, `ffmpeg.exe`, and `ffprobe.exe` are placed in the **same folder**.
+
 # Duplicate Slayer Pro v4
 **Version:** 26.03.20.logEnT
 **Author:** austin_tseng
