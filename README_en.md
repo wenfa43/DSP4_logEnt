@@ -46,12 +46,12 @@ Duplicate Slayer Pro v4 is a professional "Duplicate File Comparison and Deletio
 ## Instructions
 
 ### System and Dependency Requirements
-To maximize the application's capabilities for multimedia files, ensure the following auxiliary components are located in the same `DSP4_logEnt` folder when running `DSP4_20260320_logEnt.exe`:
+To maximize the application's capabilities for multimedia files, ensure the following auxiliary components are located in the same `DSP4_logEnt` folder when running `DSP4_logEnt.exe`:
 * `ffmpeg.exe` / `ffprobe.exe`: Auxiliary components for video processing.
 *(Note: As of v4, the `poppler` folder is no longer required!)*
 
 ### Steps to Use
-1. **Launch Program**: Double-click `DSP4_20260320_logEnt.exe`.
+1. **Launch Program**: Double-click `DSP4_logEnt.exe`.
 2. **Set Path**: Paste the target folder path you want to scan into the "Folder Path" (資料夾路徑) input box using `Ctrl+V`.
 3. **Set Comparison Parameters**:
    - Choose **Content Similarity** (內容相似度) or **Extension & Size** (副檔名及Size).
