@@ -3,7 +3,7 @@
 * [DSP4_logEnt.exe](https://github.com/wenfa43/DSP4_logEnt/releases/download/v1.0.0/DSP4_logEnt.exe)
 * 包含完整組件的 Releases 頁面：[點此前往](https://github.com/wenfa43/DSP4_logEnt/releases)
 
-## 📸 軟體Logo
+## 📸 軟體Image
 ![軟體Logo](images/image.jpg)
 
 ## 📖 詳細使用說明與教學
