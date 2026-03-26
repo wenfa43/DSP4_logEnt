@@ -8,7 +8,7 @@ You can download the latest executable and required components from the [Release
 
 > **Note:** For the application to function correctly, please ensure that `DSP4_logEnt.exe`, `ffmpeg.exe`, and `ffprobe.exe` are placed in the **same folder**.
 
-## 📸 Logo
+## 📸 Image
 ![Logo](images/image.jpg)
 
 ## 📖 Documentation & Guide
