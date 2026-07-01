@@ -10,8 +10,14 @@
 關於本工具的開發背景、詳細功能介紹及操作步驟，請參考我的部落格文章：
 👉 [**DuplicateSlayerPro V4 詳細介紹與使用指南**](https://one4ok.blogspot.com/2026/03/duplicateslayerpro-v4.html)
 
+## Google Play 下載(封測中,協助加入測試) DuplicateSlayerPro 副本刪檔神器
 
-# Duplicate Slayer Pro v4 (副檔刪檔神器 V4)
+[**透過 Android 裝置加入測試**](https://play.google.com/store/apps/details?id=com.wenfa.duplicateslayerpro)
+[**透過 網路 加入測試**](https://play.google.com/apps/testing/com.wenfa.duplicateslayerpro)
+
+
+
+# Duplicate Slayer Pro v4 (副檔刪檔神器 V4) 電腦適用
 
 **版本:** 26.03.20.logEnT
 **作者:** austin\_tseng
