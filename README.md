@@ -13,6 +13,7 @@
 ## Google Play 下載(封測中,協助加入測試) DuplicateSlayerPro 副本刪檔神器
 
 [**透過 Android 裝置加入測試**](https://play.google.com/store/apps/details?id=com.wenfa.duplicateslayerpro)
+
 [**透過 網路 加入測試**](https://play.google.com/apps/testing/com.wenfa.duplicateslayerpro)
 
 
