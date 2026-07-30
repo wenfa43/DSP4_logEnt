@@ -35,6 +35,8 @@ Duplicate Slayer Pro v5 是一套專門的「重複檔案比對與刪除工具�
 * 包含完整說明與 Releases 頁面：[點此前往](https://github.com/wenfa43/DuplicateSlayerPro/releases)
 \---
 
+## 📸 程式執行畫面
+![UI](images/screen.png)
 
 
 ## 注意事項與免責聲明
