@@ -1,7 +1,12 @@
 ## 📥 下載與安裝
-您可以前往 [最新發布版本](https://github.com/wenfa43/DSP4_logEnt/releases/latest) 下載執行檔：
-* [DSP4_logEnt.exe](https://github.com/wenfa43/DSP4_logEnt/releases/download/v1.0.0/DSP4_logEnt.exe)
-* 包含完整組件的 Releases 頁面：[點此前往](https://github.com/wenfa43/DSP4_logEnt/releases)
+您可以前往 [最新發佈版本 (Releases)](https://github.com/wenfa43/DuplicateSlayerPro/releases/latest) 下載最新執行的程式檔：
+
+* **DSP5_RSA.exe**
+* 包含完整說明與 Releases 頁面：[點此前往](https://github.com/wenfa43/DuplicateSlayerPro/releases)
+
+> 💡 **注意事項**：
+> 1. 下載後請建立獨立資料夾，將 `DSP5_RSA.exe` 單獨放入該資料夾中執行。
+> 2. 本程式完全離線運作，無任何連網功能。
 
 ## 📸 軟體Image
 ![軟體Logo](images/image.jpg)
