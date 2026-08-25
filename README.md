@@ -40,9 +40,9 @@ Duplicate Slayer Pro v5 是一套專門的「重複檔案比對與刪除工具�
 ## 🔗 詳細說明與相關連結
 
 * 📖 **詳細使用指南（部落格）**：[DuplicateSlayerPro 詳細介紹與使用指南](https://one4ok.blogspot.com/2026/03/duplicateslayerpro-v4.html)
-* 📱 **Google Play Android 測試版**：
-  * [透過 Android 裝置加入測試](https://play.google.com/store/apps/details?id=com.wenfa.duplicateslayerpro)
-  * [透過網頁加入測試](https://play.google.com/apps/testing/com.wenfa.duplicateslayerpro)
+* 📱 **Google Play Android 正式版**：
+  * [在 Google Play Store下載](https://play.google.com/store/apps/details?id=com.wenfa.duplicateslayerpro)
+  
 
 ---
 
